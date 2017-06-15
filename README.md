@@ -22,3 +22,9 @@
     * AIRYZONE Cloud（雲）
         * 網路雲端設備，用於AIRYZONE IoT Service相關應用。
 ![](https://github.com/Airyzone/document/raw/master/resource/image/cloud.png)
+<<<<<<< HEAD
+=======
+    * AIRYZONE IoT Service（物聯網服務）
+        * 由多個Beacon、多個Detector與Cloud組成之生態鍊。可以將各個Beacon節點的資訊連結，經過雲端計算之後，達成特定目的的服務。
+        * 目前主要的服務包含：定位、資料收集與協尋三大類，並衍伸出各式變形。
+>>>>>>> f0ebb28fc352b66141294294490d5f8e572f3522
